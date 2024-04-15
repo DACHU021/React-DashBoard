@@ -1,8 +1,16 @@
-# React + Vite
+# React Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# This project is a simple dashboard built using React. It provides a clean interface for displaying various data and information.
 
-Currently, two official plugins are available:
+# Features:
+# Responsive layout
+Easy-to-customize components
+Smooth navigation
+Live Demo:
+Check out the live demo here.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#Getting Started:
+#Clone this repository.
+#Install dependencies: npm install.
+#Start the development server: npm start.
+#Open your browser and navigate to http://localhost:5173/.
