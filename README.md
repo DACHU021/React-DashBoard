@@ -3,7 +3,7 @@
 This project demonstrates a simple dashboard built using React. It includes various components such as charts, tables, and navigation menus to provide a user-friendly interface for data visualization.
 
 ### Live Demo
-Check out the live demo [here](<insert link>).
+Check out the live demo http://localhost:5173/.
 
 ### Screenshots
 ![REact Dashboard Picture](https://github.com/DACHU021/React-DashBoard/assets/137294508/362080fa-d1de-4482-b7a1-9a4f768c92e3)
